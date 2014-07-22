@@ -1,0 +1,5 @@
+comments by nate
+
+alias: PHP
+
+lab3: aawwwww Yisss this was a well written lab. couple comments. Use more #defines and sepperate your defines by file for better organization. Also, debounce wasn't working so well when I flashed it. Later in the semester we will be using RTOS and be implementing buttons properly. 
